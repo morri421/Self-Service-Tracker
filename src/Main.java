@@ -1,10 +1,11 @@
+import com.tr.gui.LongInterface;
 
 public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		UserInterface ui = new UserInterface();
+		LongInterface ui = new LongInterface();
 		ui.init();
 		
 	}
